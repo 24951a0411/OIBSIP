@@ -1,0 +1,65 @@
+Enter User ID: user123
+Enter PIN: 1234
+Login successful!
+
+
+ATM Menu:
+1. Transaction History
+2. Withdraw
+3. Deposit
+4. Transfer
+5. Quit
+Select an option: 3
+Enter amount to deposit: 500
+Deposit successful!
+
+ATM Menu:
+1. Transaction History
+2. Withdraw
+3. Deposit
+4. Transfer
+5. Quit
+Select an option: 1
+Transaction History:
+Deposit: 500.0
+
+ATM Menu:
+1. Transaction History
+2. Withdraw
+3. Deposit
+4. Transfer
+5. Quit
+Select an option: 2
+Enter amount to withdraw: 200
+Withdraw successful!
+
+ATM Menu:
+1. Transaction History
+2. Withdraw
+3. Deposit
+4. Transfer
+5. Quit
+Select an option: 4
+Enter amount to transfer: 300
+Transfer successful!
+
+ATM Menu:
+1. Transaction History
+2. Withdraw
+3. Deposit
+4. Transfer
+5. Quit
+Select an option: 1
+Transaction History:
+Deposit: 500.0
+Withdraw: 200.0
+Transfer to 12345678: 300.0
+
+ATM Menu:
+1. Transaction History
+2. Withdraw
+3. Deposit
+4. Transfer
+5. Quit
+Select an option: 5
+Exiting. Thank you for using our ATM.
