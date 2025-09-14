@@ -1,0 +1,13 @@
+Welcome to NumberGuessing Game!
+Choose a difficulty level:
+1. Easy (10 guesses)
+2. Medium (5 guesses)
+3. Hard (3 guesses)
+Enter 1, 2, or 3: 3
+Attempt 1/3: Enter your guess (1-100): 80
+Your guess is too high!
+Attempt 2/3: Enter your guess (1-100): 40
+Your guess is too high!
+Attempt 3/3: Enter your guess (1-100): 20
+Your guess is too high!
+Sorry, you're out of guesses. The correct number was 13.
