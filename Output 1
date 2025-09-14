@@ -1,0 +1,22 @@
+Welcome to NumberGuessing Game!
+Choose a difficulty level:
+1. Easy (10 guesses)
+2. Medium (5 guesses)
+3. Hard (3 guesses)
+Enter 1, 2, or 3: 1
+Attempt 1/10: Enter your guess (1-100): 50
+Your guess is too high!
+Attempt 2/10: Enter your guess (1-100): 30
+Your guess is too low!
+Attempt 3/10: Enter your guess (1-100): 40
+Your guess is too high!
+Attempt 4/10: Enter your guess (1-100): 32
+Your guess is too low!
+Attempt 5/10: Enter your guess (1-100): 31
+Your guess is too low!
+Attempt 6/10: Enter your guess (1-100): 35
+Your guess is too high!
+Attempt 7/10: Enter your guess (1-100): 34
+Congratulations! You guessed the correct number!
+
+=== Code Execution Successful ===
