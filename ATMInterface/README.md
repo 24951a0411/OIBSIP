@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-// User class
 class User {
     private String userId;
     private String pin;
@@ -20,7 +19,6 @@ class User {
     }
 }
 
-// Transaction class
 class Transaction {
     private String type;
     private double amount;
@@ -35,7 +33,6 @@ class Transaction {
     }
 }
 
-// Account class
 class Account {
     private double balance;
     private ArrayList<Transaction> history;
@@ -84,7 +81,6 @@ class Account {
     }
 }
 
-// ATM class
 class ATM {
     private User user;
     private Account account;
@@ -161,11 +157,10 @@ class ATM {
             }
         } while (choice != 5);
 
-        // Do not close scanner here in online compilers to avoid issues
     }
 }
 
-// Main class for entry point
+
 public class Main {
     public static void main(String[] args) {
         User user = new User("user123", "1234");
